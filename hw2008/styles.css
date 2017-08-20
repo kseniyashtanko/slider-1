@@ -1,0 +1,21 @@
+.container {
+    width: 960px;
+    margin: 20px auto;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+
+.message {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: teal;
+    border: 1px solid pink;
+}
+
+input {
+    cursor: pointer;
+}
+
+input:hover {
+    background: lightcyan;
+}
